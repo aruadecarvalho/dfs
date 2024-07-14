@@ -1,2 +1,2 @@
 # dfs
-Distributed File System (DFS) written in Golang
+Distributed File Storage (DFS) written in Golang
